@@ -66,16 +66,16 @@ ClinicManagementSystem/
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/loginpage.png)
+![Login Page](screenshots/loginpage.PNG)
 
 ### 🏥 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ### 📅 Appointments
-![Appointments](screenshots/appointments.png)
+![Appointments](screenshots/appointments.PNG)
 
 ### 💵 Doctors
-![Billing](screenshots/doctors.png)
+![Billing](screenshots/doctors.PNG)
 
 
 ---
