@@ -1,0 +1,10 @@
+# Java & NetBeans/IntelliJ ignores
+.idea/
+nbproject/private/
+build/
+*.class
+*.iml
+*.log
+*.db
+*.bak
+.DS_Store
